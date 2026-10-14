@@ -2,18 +2,18 @@
   "apps": [
  
     {
-      "name": "Tzar Take Down Raydiex",
-      "packageName": "com.rayorch.tzar.shooting",
-      "targetAsin": "B0CCL8VX86",
-      "storeUrl": "https://www.amazon.com/Sniper-Strike-Force-Commando-Shooting/dp/B0CCL8VX86",
-      "rewardedVideoURL": "https://files.catbox.moe/1zqv14.mp4"
+      "name": "Street Gangster OL",
+      "packageName": "com.gangster.crime.game.rog",
+      "targetAsin": "B0FY8FFCZR",
+      "storeUrl": "https://www.amazon.com/Real-Crime-Theft-Shooting-Action/dp/B0FY8FFCZR",
+      "rewardedVideoURL": "https://files.catbox.moe/lajkl3.mp4"
     },
     {
-      "name": "Midnight Car Racing",
-      "packageName": "com.car.racing.midnight.dts",
-      "targetAsin": "B0GX34M692",
-      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
-      "rewardedVideoURL": "https://files.catbox.moe/cmpiz7.mp4"
+      "name": "Football MM",
+      "packageName": "com.footabll.championship.mm",
+      "targetAsin": "B0H54QLYMK",
+      "storeUrl": "https://www.amazon.com/Football-League-Soccer-Championship-Stars/dp/B0H54QLYMK",
+      "rewardedVideoURL": "https://files.catbox.moe/pdk9c8.mp4"
     },
   
     {
