@@ -1,12 +1,11 @@
 {
   "apps": [
- 
-    {
-      "name": "Street Gangster OL",
-      "packageName": "com.gangster.crime.game.rog",
-      "targetAsin": "B0FY8FFCZR",
-      "storeUrl": "https://www.amazon.com/Real-Crime-Theft-Shooting-Action/dp/B0FY8FFCZR",
-      "rewardedVideoURL": "https://files.catbox.moe/lajkl3.mp4"
+{
+      "name": "Midnight Car Racing",
+      "packageName": "com.car.racing.midnight.dts",
+      "targetAsin": "B0GX34M692",
+      "storeUrl": "https://www.amazon.com/Miami-Midnight-Car-Racing-Simulator/dp/B0GX34M692",
+      "rewardedVideoURL": "https://files.catbox.moe/zcva2x.mp4"
     },
     {
       "name": "Football MM",
@@ -15,7 +14,6 @@
       "storeUrl": "https://www.amazon.com/Football-League-Soccer-Championship-Stars/dp/B0H54QLYMK",
       "rewardedVideoURL": "https://files.catbox.moe/pdk9c8.mp4"
     },
-  
     {
       "name": "Weeding Dress Makeup",
       "packageName": "com.mm.wedding.salon.bridal.makeup.girls.games",
@@ -23,7 +21,13 @@
       "storeUrl": "https://www.amazon.com/Bridal-Makeup-Prince-Wedding-Fashion/dp/B07FLD5PS4",
       "rewardedVideoURL": "https://files.catbox.moe/xa1ohy.mp4"
     },
-    
+    {
+      "name": "Street Gangster OL",
+      "packageName": "com.gangster.crime.game.rog",
+      "targetAsin": "B0FY8FFCZR",
+      "storeUrl": "https://www.amazon.com/Real-Crime-Theft-Shooting-Action/dp/B0FY8FFCZR",
+      "rewardedVideoURL": "https://files.catbox.moe/lajkl3.mp4"
+    },
     {
       "name": "Midnight Car Racing",
       "packageName": "com.car.racing.midnight.dts",
